@@ -1,0 +1,10 @@
+site_name: Osmium docs
+site_url: https://osmium-docs.com/
+version: 0.1[Alpha]
+
+theme:
+  name: material
+  palette:
+    scheme: dark-docs
+extra_css:
+  - stylesheets/extra.css

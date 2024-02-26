@@ -1,0 +1,38 @@
+[data-md-color-scheme="dark-docs"] {
+    --md-default-fg-color:#e2e6f1;
+    --md-default-fg-color--light:#e4e6ec;
+    --md-default-fg-color--lighter:#e2e6f1;
+    --md-default-fg-color--lightest:#c0ccee17;
+    --md-primary-fg-color:#091441;
+    --md-default-bg-color:#161a29;
+    --md-code-fg-color:#d9d7cb;
+    --md-code-bg-color:#161f2e;
+    --md-code-hl-color:#2196f3;
+    --md-code-hl-color--light:#cce4ff;
+    --md-code-hl-number-color:         #c24e69;
+    --md-code-hl-special-color:        #562c5b;
+    --md-code-hl-function-color:       #748aad;
+    --md-code-hl-constant-color:       #796699;
+    --md-code-hl-keyword-color:        #8e5e53;
+    --md-code-hl-string-color:         #776947;
+    --md-code-hl-name-color:           #d9d7cb;
+    --md-code-hl-operator-color:       #e4e6ec;
+    --md-code-hl-punctuation-color:    #e4e6ec;
+    --md-code-hl-comment-color:        #e4e6ec;
+    --md-code-hl-generic-color:        #e4e6ec;
+    --md-code-hl-variable-color:       #e4e6ec;
+    --md-typeset-color:                #e2e6f1;
+    --md-typeset-a-color:              #0c9c93;
+    --md-typeset-kbd-color:            #e2e6f1;
+    --md-typeset-kbd-accent-color:     #e4e6ec;
+    --md-typeset-kbd-border-color:     #161a29;
+    --md-typeset-mark-color:           #91c9ff;
+    --md-typeset-table-color:          #e2e6f1;
+    --md-typeset-table-color--light:   #ff00001f;
+    --md-admonition-fg-color:          #e2e6f1;
+    --md-admonition-bg-color:          #161a29;
+    --md-footer-bg-color:              #132035;
+    --md-footer-bg-color--dark:        #1e2a41;
+  
+    --md-text-font-family: "Jacquarda Bastarda 9", serif;
+  }
